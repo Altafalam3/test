@@ -1,0 +1,4 @@
+flask
+asyncio
+websockets
+pyaudio

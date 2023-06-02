@@ -1,0 +1,48 @@
+body {
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 40px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+
+.title-icon {
+  margin-left: 10px;
+}
+
+.btn1 {
+  margin-left: 20vh;
+}
+
+.btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.btn:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+
+.transcript {
+  font-size: 16px;
+  color: #726e6e;
+  margin-top: 20px;
+  margin-left: 10vh;
+
+}
